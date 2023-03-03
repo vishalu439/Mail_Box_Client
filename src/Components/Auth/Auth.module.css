@@ -1,0 +1,42 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 19rem;
+    border: 2px solid brown;
+    border-radius: 20px;
+    min-height: 235px;
+    box-shadow: 10px 5px 5px red;
+}
+
+.form input{
+    width: 16rem;
+    margin: 8px auto;
+    padding: 3px;
+    border-radius: 10px;
+    border: 2px solid blue;
+}
+
+
+.toggle_button{
+    background: transparent;
+    border-color: transparent;
+    margin-bottom: 15px;
+}
+
+.submit_button{
+    width: 16.5rem;
+    margin: 8px auto;
+    padding: 3px;
+    border-radius: 10px;
+    border: 2px solid blue;
+}
+
+.form h3 {
+    margin: 5px auto;
+}
+
+.error{
+    display: flex;
+    justify-content: center;
+}

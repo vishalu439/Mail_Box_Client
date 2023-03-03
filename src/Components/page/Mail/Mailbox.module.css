@@ -1,0 +1,18 @@
+.section{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 125px;
+    margin-left: 20px;
+}
+
+.main{
+    display: flex;
+}
+
+.inbox_main{
+    border: 1px solid pink;
+    margin-left: 60px;
+    width: 70%;
+    height: 30rem;
+}

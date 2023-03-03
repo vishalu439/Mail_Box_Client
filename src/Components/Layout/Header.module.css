@@ -1,0 +1,10 @@
+.header{
+    overflow: hidden;
+    background-color: #a97438;
+    margin-top: inherit;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    z-index: 10;
+}
+
